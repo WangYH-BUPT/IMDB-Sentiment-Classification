@@ -1,6 +1,6 @@
 # IMDB-Sentiment-Classification
 
-利用Bi-LSTM进行IMDB数据集的情感分类。
+* 利用Bi-LSTM进行IMDB数据集的情感分类。
 
 ### Requirements
 * python 3
