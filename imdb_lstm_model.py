@@ -1,5 +1,5 @@
 """
-IMDB-Sentiment-Classification  # Code modification by WangYH-BUPT
+IMDB-Sentiment-Classification
 """
 
 import torch
