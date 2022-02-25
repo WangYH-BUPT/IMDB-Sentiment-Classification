@@ -1,5 +1,5 @@
 """
-参数  # Code modification by WangYH-BUPT
+参数
 """
 
 import torch
