@@ -19,3 +19,7 @@
 ### Training & Testing
 
 	python imdb_lstm_model.py
+
+### References
+
+* 代码参考 `jikeruohai`, Many thanks!
