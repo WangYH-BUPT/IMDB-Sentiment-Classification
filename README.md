@@ -16,6 +16,6 @@
 
 * `lib.py` 存放了参数的设置
 
-### Training
+### Training & Testing
 
 	python imdb_lstm_model.py
