@@ -1,5 +1,5 @@
 """
-文本序列化  # Code modification by WangYH-BUPT
+文本序列化
 """
 
 import pickle
